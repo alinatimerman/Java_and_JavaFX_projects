@@ -1,0 +1,5 @@
+5
+1; 1; customer1; date1; status; 
+2; 1; customer2; date2; status; 
+3; 2; ana; 13-02-2020; status; 
+4; 2; mirela; data; status; 

@@ -1,0 +1,6 @@
+6
+1; name; author; 100; 10; 1998; 
+2; name2; author2; 101; 9; 1990; 
+3; maria; daniela; 56; 8; 2010; 
+4; marian; daniel; 70; 7; 2012; 
+5; alabala; autor; 80; 12; 2020; 
