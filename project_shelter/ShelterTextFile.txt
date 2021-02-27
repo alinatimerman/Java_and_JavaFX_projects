@@ -1,0 +1,5 @@
+5
+1; name; address; 12; 56; 20; 
+2; name2; address2; 23; 67; 40; 
+3; name; address3; 33; 67; 45; 
+4; adapost; str 1 mai nr 44; 34; 80; 20; 

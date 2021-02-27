@@ -1,0 +1,32 @@
+Repository/RepositoryException.java
+ Repository.RepositoryException
+Model/Animal.java
+ Model.Animal
+Repository/ShelterInFileRepository.java
+ Repository.ShelterInFileRepository
+Repository/ShelterInMemoRepository.java
+ Repository.ShelterInMemoRepository
+Model/Shelter.java
+ Model.Shelter
+Repository/IRepository.java
+ Repository.IRepository
+Repository/AbstractRepository.java
+ Repository.AbstractRepository
+Repository/ShelterRepository.java
+ Repository.ShelterRepository
+Model/Identifiable.java
+ Model.Identifiable
+Service/ServiceException.java
+ Service.ServiceException
+Repository/AnimalInMemoRepository.java
+ Repository.AnimalInMemoRepository
+Controller/ControllerFX.java
+ Controller.ControllerFX
+Repository/AnimalRepository.java
+ Repository.AnimalRepository
+Repository/AnimalInFileRepository.java
+ Repository.AnimalInFileRepository
+MainFX.java
+ MainFX
+Service/Service.java
+ Service.Service

@@ -1,0 +1,5 @@
+5
+1; name; 1; 1; species; 
+2; name2; 2; 2; species2; 
+3; rex; 1; 1; dog; 
+4; bombonel; 3; 1; dog; 
