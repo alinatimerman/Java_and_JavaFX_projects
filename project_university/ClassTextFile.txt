@@ -1,0 +1,6 @@
+7
+2; name; 4; mitzu; 4; 
+3; tomi; 5; teacher; 5; 
+4; alina; 4; mitzu; 2; 
+5; lina; 6; tomi; 3; 
+6; mitzu; 5; teacher; 3; 

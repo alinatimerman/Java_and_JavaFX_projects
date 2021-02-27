@@ -1,0 +1,9 @@
+9
+1; name1; 45; 9; 19; yes;; 
+2; name2; 78; 10; 20; yes;; 
+3; lina; 234; 9; 10; yes; 
+4; alabala; 89; 9; 20; yes; 
+5; mitzu; 90; 9; 18; yes; 
+6; name3; 90; 10; 19; yes; 
+7; alina; 56; 10; 20; yes; 
+8; lina; 45; 9; 19; yes; 
