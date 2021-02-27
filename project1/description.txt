@@ -1,0 +1,1 @@
+a java and java fx application for managing activities and people who register for them, using gradle

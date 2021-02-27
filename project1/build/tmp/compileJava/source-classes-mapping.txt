@@ -1,0 +1,32 @@
+Repository/ActivityRepository.java
+ Repository.ActivityRepository
+Repository/ActivityInFileRepository.java
+ Repository.ActivityInFileRepository
+Repository/RepositoryException.java
+ Repository.RepositoryException
+Repository/RegistrationInMemoRepository.java
+ Repository.RegistrationInMemoRepository
+Model/Activity.java
+ Model.Activity
+MainFX.java
+ MainFX
+Service/Service.java
+ Service.Service
+Repository/RegistrationRepository.java
+ Repository.RegistrationRepository
+Repository/AbstractRepository.java
+ Repository.AbstractRepository
+Model/Identifiable.java
+ Model.Identifiable
+Model/Registration.java
+ Model.Registration
+Repository/RegistrationInFileRepository.java
+ Repository.RegistrationInFileRepository
+Controller/ControllerFX.java
+ Controller.ControllerFX
+Repository/IRepository.java
+ Repository.IRepository
+Repository/ActivityInMemoRepository.java
+ Repository.ActivityInMemoRepository
+Service/ServiceException.java
+ Service.ServiceException
